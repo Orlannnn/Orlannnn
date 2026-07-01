@@ -23,7 +23,7 @@ Full Stack Developer • Mobile Developer • UI/UX Designer
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:EMAIL@gmail.com">
+<a href="ooswaldrgg@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -48,10 +48,6 @@ Full Stack Developer • Mobile Developer • UI/UX Designer
 
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -66,16 +62,12 @@ Full Stack Developer • Mobile Developer • UI/UX Designer
 
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Orlannnn&theme=tokyonight&show_icons=true&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Orlannnn&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlannnn&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
 ![](https://komarev.com/ghpvc/?username=Orlannnn&style=for-the-badge)
