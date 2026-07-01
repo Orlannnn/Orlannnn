@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋
+
+I'm Orlando.
+
+## 💻 Tech Stack
+
+- Flutter
+- React
+- Express
+- MySQL
+
+## 📫 Contact
+
+- Instagram
+- Email
