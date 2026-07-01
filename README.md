@@ -9,7 +9,7 @@ Full Stack Developer • Mobile Developer • UI/UX Designer
 ## 🚀 About Me
 
 - 🎓 Informatics Student
-- 📱 Currently learning **React Native & Flutter**
+- 📱 Currently learning **React Native & Express**
 - 🌐 Building **Full Stack Web Applications**
 - 🎨 Interested in **UI/UX Design**
 - 💡 Always learning new technologies
@@ -19,7 +19,7 @@ Full Stack Developer • Mobile Developer • UI/UX Designer
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://instagram.com/USERNAME">
+<a href="https://instagram.com/orlalalost_u">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
